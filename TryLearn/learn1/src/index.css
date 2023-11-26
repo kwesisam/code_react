@@ -1,0 +1,7 @@
+.navbar{
+  display:flex;
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 10px;
+  justify-content: space-between;
+}
